@@ -1,5 +1,5 @@
-# sre_ariflow
-This scripts will support for Airflow mechanism along with Spark &amp; Hadoop and Kafka
+# sre_airflow
+This scripts will support for a customized Airflow mechanism along with Spark &amp; Hadoop and Kafka
 
 ## Deploy:
 ```bash
